@@ -1,0 +1,26 @@
+{
+  "author": "https://github.com/luscus/node-root-finder/graphs/contributors",
+  "name": "root-finder",
+  "description": "Enables to find the parent module in the path hierarchy",
+  "version": "0.1.0",
+  "keywords" : ["root-finder", "root", "parent module"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luscus/node-root-finder.git"
+  },
+  "bugs" : "https://github.com/luscus/node-root-finder/issues",
+  "main": "./lib/root-finder.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.10.x",
+    "load-grunt-tasks": "0.4.x"
+  },
+  "optionalDependencies": {},
+  "licenses" : [
+    { "type" : "GPL",
+      "url" : "https://github.com/luscus/node-root-finder/blob/master/COPYING"
+    }
+  ]
+}
